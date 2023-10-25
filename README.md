@@ -1,5 +1,6 @@
 # Projeto_Integrador_2
 ## Projeto Integrador 2 - Univesp
+Criada a modelagem de dados para a aplicação Gestão Orcamentária
 
  ```mermaid
 classDiagram
