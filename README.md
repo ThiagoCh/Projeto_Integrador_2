@@ -8,6 +8,7 @@ classDiagram
     - nome: String
     - logradouro: String
     - numero: String
+    - complemento: String
     - email: String
     - cpf: String
     - cep: String
